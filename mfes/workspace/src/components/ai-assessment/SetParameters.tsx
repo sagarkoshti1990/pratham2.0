@@ -237,7 +237,7 @@ const SetParameters: React.FC<SetParametersProps> = ({
       content,
     });
   };
-  console.log(formState, errors, 'sagar');
+
   return (
     <Box p={3}>
       <Typography
